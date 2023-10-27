@@ -1,6 +1,7 @@
 <h1 align="center">Final Project I</h1>
 
-
+- Nama : Rizky Mardhatillah
+- Kelas : PYTN-KS19-022
 # Pendahuluan 
 ## Uber and Lyft Dataset Boston, MA
 From 11-26-2018 to 12-18-2018
