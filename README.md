@@ -1,4 +1,4 @@
-<h1 align="center">Final Project I</h1>
+<h1 align="center">Final Project</h1>
 
 - Nama : Rizky Mardhatillah
 - Kelas : PYTN-KS19-022
