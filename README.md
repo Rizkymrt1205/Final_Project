@@ -7,3 +7,5 @@
 From 11-26-2018 to 12-18-2018
 ## 2. Final Project 2 :Rain in Australia
 From 2007-2017
+## 3. Final Project 3 :Prediksi Keselamatan Pasien penyakit jantung
+Menggunakan algoritma ensemble - random forrest - boosting
